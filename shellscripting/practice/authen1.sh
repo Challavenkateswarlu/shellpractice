@@ -1,6 +1,6 @@
 #! /bin/bash
 #
- username="832819"
+ username="admin"
  passwd="venky"
  echo "enter username"
  read user

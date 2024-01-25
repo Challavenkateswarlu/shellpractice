@@ -6,7 +6,7 @@
  read username
  echo "enter the passwd"
  read passwd
- if [ [ $dusername -eq $username ] -a [ $dpasswd -eq  $passwd ] ];then 
+ if [ [ dusername -eq $username ] -a [ dpasswd -eq  $passwd ] ];then 
 	 echo "successfully"
 else
 	echo "failed"
